@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Software Developer from Turkey<br>🌱 I’m currently learning Java,React.js, React Native, ,Node.js<br><br>📝 My personal page<br><br>💬 Ask me about Javascript, HTML-CSS, React and React-Native,Python, and Node.js.<br><br>📫 How to reach me erdincakdogan@gmail.com
+A Software Developer from Turkey<br>🌱 I’m currently learning Java,React.js, React Native, ,Node.js<br><br>📝 My personal page<br><br>💬 Ask me about Javascript, HTML-CSS, React and React-Native,Python, Java and Node.js.<br><br>📫 How to reach me erdincakdogan@gmail.com
 
 
 ## 🌐 Socials:
