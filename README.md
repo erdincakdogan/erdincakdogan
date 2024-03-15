@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React.js, React Native, ,Node.js<br><br>📝 My personal page<br><br>💬 Ask me about Javascript, HTML-CSS, React and React-Native,Python, Java and Node.js.<br><br>📫 How to reach me erdincakdogan@gmail.com
+<br>🌱 I’m currently learning Next.js, React Native, ,Node.js<br><br>📝 My personal page<br><br>💬 Ask me about Javascript, HTML-CSS, React, Next.js React-Native and Node.js.<br><br>📫 How to reach me erdincakdogan@gmail.com
 
 
 ## 🌐 Socials:
